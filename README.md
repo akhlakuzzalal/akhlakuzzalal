@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akhlak Uzzalal</h1>
-<h3 align="center">Software Engineer of Intelekt AI</h3>
+<h3 align="center">Software Engineer at Intelekt AI</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-akhlak.netlify.app/](https://portfolio-akhlak.netlify.app/)
 
